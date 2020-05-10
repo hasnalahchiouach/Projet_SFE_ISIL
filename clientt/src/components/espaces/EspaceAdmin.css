@@ -1,0 +1,58 @@
+
+.Link1:link, .Link1:visited {
+    background-color:#ba6b57 ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  .Link1:hover, .Link1:active {
+    background-color:#84142d;
+  }
+
+  .Link2:link, .Link2:visited {
+    background-color:#ba6b57 ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  .Link2:hover, .Link2:active {
+    background-color:#84142d;
+  }
+  .Link3:link, .Link3:visited {
+    background-color:#ba6b57 ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  .Link3:hover, .Link3:active {
+    background-color:#84142d;
+  }
+  .Link4:link, .Link4:visited {
+    background-color:#ba6b57 ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  .Link4:hover, .Link4:active {
+    background-color:#84142d;
+  }

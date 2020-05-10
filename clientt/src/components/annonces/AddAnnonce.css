@@ -1,0 +1,10 @@
+.flex-container {
+    margin-top: 50px;
+    display: flex;
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+    line-height: 75px;
+  }
+  

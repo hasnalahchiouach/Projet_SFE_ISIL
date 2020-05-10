@@ -1,0 +1,43 @@
+.flex-container {
+    margin-top: 50px;
+    display: flex;
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+    line-height: 75px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table{
+      font-size: medium;
+  }
+
+.annonce{
+   height: 250px;
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid;
+    border-color:#9c5518;
+    border-radius: 10px;
+    margin-top: 25px;
+    padding: 0 30px;
+    background-color:#f0daa4;
+}
+tr{
+  padding: 0px;
+}
+.title-annonce{
+  padding: 50px 0 0 0;
+  float: left;
+  margin-top: 50px;
+}
+
+.img-annonce img{
+    border-radius: 10px;
+ 
+    margin-left: 100px;
+    margin-top: 3px;
+    width: 220px;
+    height: 90px;
+}
